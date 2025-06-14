@@ -16,6 +16,8 @@ This is a simple and clean web-based calculator that allows users to:
 - HTML
 - CSS
 - JavaScript
+## 🔗 Live Demo
+👉 [Click here to try the app](https://trivenidevarakonda.github.io/SCT_WD_2/)
 
 ## 📂 How to Use
 1. Click the GPA or General Calculator option on the home screen.
@@ -28,4 +30,4 @@ This is a simple and clean web-based calculator that allows users to:
 
 ---
 
-👩‍💻 Developed with ❤️ by Triveni (BTech CSE-IoT)
+👩‍💻 Developed by Triveni (BTech CSE-IoT)
