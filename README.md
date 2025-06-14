@@ -17,9 +17,6 @@ This is a simple and clean web-based calculator that allows users to:
 - CSS
 - JavaScript
 
-## 🚀 Live Demo
-[Click here to open the Calculator]()
-
 ## 📂 How to Use
 1. Click the GPA or General Calculator option on the home screen.
 2. For GPA:
